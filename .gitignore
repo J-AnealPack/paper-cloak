@@ -1,0 +1,22 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated outputs
+recordings/
+clean_page.png
+**/comparison.mp4
+**/comparison.avi
+**/output.avi
+**/final_clean.png
+**/final_comparison.jpg
+**/preview.jpg
+**/reference_page.png
+**/metrics.json
+**/summary.json
+
+# Operating system files
+.DS_Store
+Thumbs.db

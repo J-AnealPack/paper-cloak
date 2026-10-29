@@ -1,0 +1,6 @@
+{
+  "model": "homography",
+  "page_width": 360,
+  "dynamic": true,
+  "confirmation_frames": 5
+}
