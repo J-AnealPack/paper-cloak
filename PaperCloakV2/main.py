@@ -41,6 +41,9 @@ def main():
 #    io.show()
 #
 #    print(algorithms.normColorHistRegion(imageSequence[0,:,:,:], np.ones(imageSequence[0,:,:,0].shape), 4))
+#
+#    points = algorithms.corners(imageSequence[0,:,:,:], 10000)
+#    print(points)
 
 
 main()
